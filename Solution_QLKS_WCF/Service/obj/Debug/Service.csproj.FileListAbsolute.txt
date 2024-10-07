@@ -1,0 +1,14 @@
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\Service\bin\Debug\Service.exe.config
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\Service\bin\Debug\Service.exe
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\Service\bin\Debug\Service.pdb
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\Service\obj\Debug\Service.exe
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\Service\obj\Debug\Service.pdb
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+D:\KLTN\Source code\Solution_QLKS_WCF\Service\bin\Debug\Service.exe.config
+D:\KLTN\Source code\Solution_QLKS_WCF\Service\bin\Debug\Service.exe
+D:\KLTN\Source code\Solution_QLKS_WCF\Service\bin\Debug\Service.pdb
+D:\KLTN\Source code\Solution_QLKS_WCF\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+D:\KLTN\Source code\Solution_QLKS_WCF\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\KLTN\Source code\Solution_QLKS_WCF\Service\obj\Debug\Service.exe
+D:\KLTN\Source code\Solution_QLKS_WCF\Service\obj\Debug\Service.pdb

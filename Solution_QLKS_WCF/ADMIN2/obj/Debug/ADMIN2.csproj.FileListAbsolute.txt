@@ -1,0 +1,15 @@
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\obj\Debug\ADMIN2.GUI.frmadd.resources
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\obj\Debug\ADMIN2.GUI.frmChangePassword.resources
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\obj\Debug\ADMIN2.GUI.frmchange_info_employee.resources
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\obj\Debug\ADMIN2.GUI.frmLogin.resources
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\obj\Debug\ADMIN2.GUI.frmsearch.resources
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\obj\Debug\ADMIN2.Properties.Resources.resources
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\obj\Debug\ADMIN2.csproj.GenerateResource.cache
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\obj\Debug\ADMIN2.csproj.CoreCompileInputs.cache
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\bin\Debug\ADMIN2.exe.config
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\bin\Debug\ADMIN2.exe
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\bin\Debug\ADMIN2.pdb
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\obj\Debug\ADMIN2.GUI.frmSystem.resources
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\obj\Debug\ADMIN2.exe
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\obj\Debug\ADMIN2.pdb
+D:\DATA\kltn\huy\Source code\Solution_QLKS_WCF\ADMIN2\obj\Debug\ADMIN2.csproj.AssemblyReference.cache
